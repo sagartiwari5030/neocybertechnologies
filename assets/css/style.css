@@ -677,6 +677,11 @@ section {
   margin: 0;
 }
 
+.auto-type{
+             color: #FFF;
+}
+
+
 .features .feature-box i {
   line-height: 0;
   background: #ecf3ff;
